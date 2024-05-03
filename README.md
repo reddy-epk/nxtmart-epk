@@ -23,7 +23,7 @@ react concepts used: component, displaying that data, routing concepts, authenti
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
+### Some Instructions that I minded creating nxtmart.
 
 <details>
 <summary>Functionalities that are added</summary>
